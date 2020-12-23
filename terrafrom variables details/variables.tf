@@ -1,7 +1,7 @@
-variables "AWS_ACCESS_KEY" {}
+variable "AWS_ACCESS_KEY" {}
 
-variables "AWS_SECRET_KEY" {}
+variable "AWS_SECRET_KEY" {}
 
-variables "AWS_REGION" {
+variable "AWS_REGION" {
 default = ""us-east-1"
 }
