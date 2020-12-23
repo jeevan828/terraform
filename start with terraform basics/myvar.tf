@@ -1,4 +1,4 @@
 variable "myfirstvar" {
     type = string
-    default ="Hell welcome to terraform"
+    default ="Hello welcome to terraform"
 }
